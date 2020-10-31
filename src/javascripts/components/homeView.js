@@ -12,7 +12,7 @@ const printJoke = () => {
 };
 
 const makeHomeView = () => {
-  $('#app').html(`<image></image>
+  $('#app').html(`<h1>The Joke Generator</h1>
                   <button type="button" id="anotherBtn" class="btn btn-light">Tell me another joke</button>
                   <div id="jokeContainer">
                     <div id="joke"></div>

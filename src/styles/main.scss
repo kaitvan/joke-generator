@@ -4,15 +4,32 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: darkblue;
+  background-color: #013042;
 }
 
 #app {
   margin: auto;
-  display: flex;
+  margin-top: 10vh;
+  height: 80vh;
+  width: 80vw;
+  color:#dbae1d;
+  text-align: center;
+}
+
+h1, #anotherBtn {
+  margin: 30px;
 }
 
 #jokeContainer {
-  background-color: white;
-  align-items: center;
+  background-color: #7c9d94;
+  color: #013042;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  height: 300px;
+}
+
+#joke, #answerBtn, #answer {
+  margin: 20px;
 }
