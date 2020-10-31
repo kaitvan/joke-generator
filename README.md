@@ -24,4 +24,4 @@ The user can:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc8a1907-fa17-45a5-870f-f5bb99222067/deploy-status)](https://app.netlify.com/sites/joke-generator-kaitvan/deploys)
 
 ## Deployed Link
-[Joke Generator](joke-generator-kaitvan.netlify.app)
+[Joke Generator](https://joke-generator-kaitvan.netlify.app/)
